@@ -1,0 +1,6 @@
+TechCrunch;https://techcrunch.com;https://techcrunch.com/feed
+Wired;https://wired.com;https://wired.com/feed/rss
+Apartment Therapy;https://apartmenttherapy.com;https://apartmenttherapy.com/main.rss
+Codeforces;https://codeforces.com/;
+MuscleWiki - Simplify your workout;https://musclewiki.com/;
+https://www.imdb.com/
